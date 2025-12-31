@@ -1,0 +1,7 @@
+{
+  "name": "Satemades Bottles",
+  "description": "A modern, premium e-commerce experience for sustainable, crystal-clear water bottles. Focused on purity, sustainability, and high-end design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
